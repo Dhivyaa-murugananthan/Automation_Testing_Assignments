@@ -1,0 +1,9 @@
+
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <documentTitle>Guru99 Banking Automation Report</documentTitle>
+        <reportName>Guru99 Banking BDD Execution</reportName>
+        <encoding>UTF-8</encoding>
+    </configuration>
+</extentreports>
